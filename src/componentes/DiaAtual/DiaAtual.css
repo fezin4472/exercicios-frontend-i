@@ -1,0 +1,8 @@
+.diaAtual {
+    display: flex;
+    justify-content: center;
+    background: blue;
+    color: white;
+
+    margin: 16px;
+}

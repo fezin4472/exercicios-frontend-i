@@ -1,0 +1,13 @@
+.minutoAtual {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: pink;
+    color: black;
+
+    margin: 16px;
+
+    width: 40px;
+    height: 40px;
+}

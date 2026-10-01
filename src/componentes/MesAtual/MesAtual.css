@@ -1,0 +1,7 @@
+.mesAtual {
+    display: flex;
+    background: green;
+    color: white;
+
+    margin: 16px;
+}
