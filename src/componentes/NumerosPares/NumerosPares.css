@@ -1,0 +1,6 @@
+.numerosPares {
+    display: flex;
+    flex-direction: column;
+    background: blue;
+    color: yellow;
+}

@@ -1,0 +1,19 @@
+.maiorIdade {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: green;
+    color: yellow;
+
+    margin: 16px;
+}
+
+.menorIdade {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: red;
+    color: yellow;
+
+    margin: 16px;
+}

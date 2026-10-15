@@ -1,0 +1,8 @@
+.listaProdutos {
+    display: flex;
+    flex-direction: column;
+    background: purple;
+    color: yellow;
+
+    margin: 16px;
+}
